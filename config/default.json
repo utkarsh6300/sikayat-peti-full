@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://utkarsh6300:utkarsh6300@sikayat-peti1.u1xow.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    ,"jwtSecret":"utk@123"
+
+}
